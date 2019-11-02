@@ -1,0 +1,18 @@
+title: "brandrail.company"
+url: "https://brandrail.company"
+email: "info@brandrail.company"
+description: ""
+
+social:
+  name: BrandRail
+  links:
+    - "https://facebook.com/brandrailcompany"
+    - "https://github.com/brandrail"
+logo: "/assets/logo.png"
+
+plugins:
+  - "jekyll-seo-tag"
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
